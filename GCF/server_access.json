@@ -1,0 +1,8 @@
+{
+    "axios": {
+        "server": "localhost",
+        "user": "admin",
+        "password": "Cartonmachine1!",
+        "data_base": "axios"
+    }
+}

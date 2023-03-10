@@ -1,0 +1,4 @@
+CMS: Content Managment System
+GCF: Global Configuration Files
+GSF: Global Shared Files
+VCF: View Content Files
